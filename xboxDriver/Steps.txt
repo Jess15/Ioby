@@ -1,0 +1,4 @@
+apt-get install xboxdrv
+sudo rmmod xpad
+#conectar joystick
+sudo ./xboxdrv.sh 
